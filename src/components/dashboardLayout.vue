@@ -69,6 +69,7 @@
         drawer: null,
         items: [
         { title: 'User Controller', icon: 'mdi-human-male' },
+        { title: 'Sparepart', icon: 'mdi-human-male' },
         ],
         }
         },

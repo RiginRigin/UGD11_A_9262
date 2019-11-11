@@ -12,8 +12,8 @@ import Router from 'vue-router'
     {
         name: 'UserController',
         path: '',
-        component: loadView('userController')
-        }
+        component: loadView('sparepartController')
+        },
         ]
     },
     ]
